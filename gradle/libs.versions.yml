@@ -10,7 +10,7 @@ plugins:
     io.papermc.hangar-publish-plugin: 0.0.3
 
 versions:
-    minecraft: 1.19.4
+    minecraft: 23w17a
     checkerQual: 3.32.0
     cloud: 1.8.3
     cloudForge: 1.0.0+1.19.4-SNAPSHOT
@@ -21,8 +21,8 @@ versions:
     adventurePlatformFabric: 5.8.0
     paperApi: 1.19.4-R0.1-SNAPSHOT
     bStats: 3.0.0
-    fabricApi: 0.76.0+1.19.4
-    fabricLoader: 0.14.17
+    fabricApi: 0.80.0+1.20
+    fabricLoader: 0.14.19
     cardinalComponents: 5.1.0
     guice: 5.1.0
     forge: 1.19.4-45.0.18
